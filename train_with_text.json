@@ -1,0 +1,38 @@
+{
+    "150448": {
+        "claim": "Roman Atwood is a content creator.",
+        "evidence": [
+            [
+                "Roman_Atwood",
+                1
+            ],
+            [
+                "Roman_Atwood",
+                3
+            ]
+        ],
+        "evidence_texts": [
+            "Roman_Atwood 1 He is best known for his vlogs , where he posts updates about his life on a daily basis .\n",
+            "Roman_Atwood 3 He also has another YouTube channel called `` RomanAtwood '' , where he posts pranks .\n"
+        ],
+        "label": "SUPPORTS"
+    },
+    "75397": {
+        "claim": "Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.",
+        "evidence": [
+            [
+                "Fox_Broadcasting_Company",
+                0
+            ],
+            [
+                "Nikolaj_Coster-Waldau",
+                7
+            ]
+        ],
+        "evidence_texts": [
+            "Fox_Broadcasting_Company 0 The Fox Broadcasting Company -LRB- often shortened to Fox and stylized as FOX -RRB- is an American English language commercial broadcast television network that is owned by the Fox Entertainment Group subsidiary of 21st Century Fox .\n",
+            "Nikolaj_Coster-Waldau 7 He then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .\n"
+        ],
+        "label": "SUPPORTS"
+    }
+}

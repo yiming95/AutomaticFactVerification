@@ -1,0 +1,30 @@
+{
+  "75397": {
+    "claim": "Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.",
+    "label": "SUPPORTS",
+    "evidence": [
+      [
+        "Fox_Broadcasting_Company",
+        0
+      ],
+      [
+        "Nikolaj_Coster-Waldau",
+        7
+      ]
+    ]
+  },
+  "150448": {
+    "claim": "Roman Atwood is a content creator.",
+    "label": "SUPPORTS",
+    "evidence": [
+      [
+        "Roman_Atwood",
+        1
+      ],
+      [
+        "Roman_Atwood",
+        3
+      ]
+    ]
+  }
+}
