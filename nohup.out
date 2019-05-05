@@ -1,0 +1,25 @@
+[I 17:56:42.641 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:56:42.689 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 17:56:42.689 NotebookApp] Serving notebooks from local directory: /Users/wenbin/Desktop/Unimelb courses/COMP90042 Web Search/Project/AutomaticFactVerification
+[I 17:56:42.689 NotebookApp] The Jupyter Notebook is running at:
+[I 17:56:42.689 NotebookApp] http://localhost:8889/?token=9528fd81b06cc7e167ad9bce39b1f66d1866b8f6e5659c9c
+[I 17:56:42.689 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:56:42.697 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wenbin/Library/Jupyter/runtime/nbserver-13266-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=9528fd81b06cc7e167ad9bce39b1f66d1866b8f6e5659c9c
+[I 17:56:49.953 NotebookApp] Kernel started: 766f8093-46be-48e2-a6e7-a49de5e347ec
+[W 17:56:50.356 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190430175642 (::1) 11.51ms referer=http://localhost:8889/notebooks/PredictLabel.ipynb
+[I 17:56:50.681 NotebookApp] Adapting to protocol v5.1 for kernel 766f8093-46be-48e2-a6e7-a49de5e347ec
+[I 18:14:04.955 NotebookApp] Kernel started: 0cd68b07-2d76-4994-b422-b495a278b2cd
+[W 18:14:05.184 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190430175642 (::1) 5.06ms referer=http://localhost:8889/notebooks/GetEvidence.ipynb
+[I 18:14:05.697 NotebookApp] Adapting to protocol v5.1 for kernel 0cd68b07-2d76-4994-b422-b495a278b2cd
+[I 18:16:04.962 NotebookApp] Saving file at /GetEvidence.ipynb
+[I 18:18:04.967 NotebookApp] Saving file at /GetEvidence.ipynb
+[I 19:58:09.530 NotebookApp] Starting buffering for 766f8093-46be-48e2-a6e7-a49de5e347ec:745ef975c80d4ff589ee387f21adf1b3
+[I 19:58:10.054 NotebookApp] Starting buffering for 0cd68b07-2d76-4994-b422-b495a278b2cd:07aaf1a2dffe45388f4308c18464b765
+[C 01:20:21.503 NotebookApp] received signal 15, stopping
+[I 01:20:21.511 NotebookApp] Shutting down 2 kernels
+[I 01:20:21.823 NotebookApp] Kernel shutdown: 766f8093-46be-48e2-a6e7-a49de5e347ec
