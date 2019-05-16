@@ -61,7 +61,7 @@
     },
     "100429": {
         "claim": "lose tv series be a series of play",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Lost_-LRB-TV_series-RRB-",
@@ -169,7 +169,7 @@
     },
     "100802": {
         "claim": "papua comprise all of indonesian new guinea and it be culture",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Papua_-LRB-province-RRB-",
@@ -317,7 +317,7 @@
     },
     "10100": {
         "claim": "the bahamas be know by an official name",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_Bahamas",
@@ -609,7 +609,7 @@
     },
     "101716": {
         "claim": "ingushetia be establish on the 2nd",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ingushetia",
@@ -1053,7 +1053,7 @@
     },
     "10328": {
         "claim": "sidse babett knudsen graduate on november 22nd 1968",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Sidse_Babett_Knudsen",
@@ -1113,7 +1113,7 @@
     },
     "103511": {
         "claim": "the faroe island be no longer part of a kingdom",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Faroe_Islands",
@@ -1157,7 +1157,7 @@
     },
     "103663": {
         "claim": "diana princess of wale s father inherit the title of duke of wellington",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Diana,_Princess_of_Wales",
@@ -1197,7 +1197,7 @@
     },
     "10379": {
         "claim": "the horse be not call a eohippus when it have multiple toe",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Horse",
@@ -1257,7 +1257,7 @@
     },
     "104129": {
         "claim": "bessie smith die",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Bessie_Smith",
@@ -1417,7 +1417,7 @@
     },
     "104617": {
         "claim": "jack falahee be bear in 1989 and he be unknown",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Jack_Falahee",
@@ -1469,7 +1469,7 @@
     },
     "104729": {
         "claim": "papua be formerly call by another name",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Papua_-LRB-province-RRB-",
@@ -1499,7 +1499,7 @@
     },
     "104847": {
         "claim": "the new york knicks be one of the professional team in the national basketball association s eastern conference",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "New_York_Knicks",
@@ -1817,7 +1817,7 @@
     },
     "105724": {
         "claim": "the chrysler build be always the world s shortest build",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Chrysler_Building",
@@ -2031,7 +2031,7 @@
     },
     "106458": {
         "claim": "the bassoon king be a mountain",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "The_Bassoon_King",
@@ -2441,7 +2441,7 @@
     },
     "1076": {
         "claim": "jam jones miss the final once",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "James_Jones_-LRB-basketball_player-RRB-",
@@ -2513,7 +2513,7 @@
     },
     "107926": {
         "claim": "the mighty duck be produce by the kerner entertainment company in 2017",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "The_Mighty_Ducks",
@@ -2597,7 +2597,7 @@
     },
     "10810": {
         "claim": "halsey sign her first record contract in 1914",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Halsey_-LRB-singer-RRB-",
@@ -2631,7 +2631,7 @@
     },
     "108202": {
         "claim": "eva green make her film debut in 2006",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Eva_Green",
@@ -2839,7 +2839,7 @@
     },
     "108937": {
         "claim": "rupert murdoch never form bskyb",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Rupert_Murdoch",
@@ -2849,7 +2849,7 @@
     },
     "108950": {
         "claim": "alexandra daddario be canadian",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Alexandra_Daddario",
@@ -3785,7 +3785,7 @@
     },
     "111897": {
         "claim": "telemundo be a english language television network",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Telemundo",
@@ -3911,7 +3911,7 @@
     },
     "112394": {
         "claim": "byron howard be nominate for a golden globe for zootopia but lose to m night shamalan",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Byron_Howard",
@@ -4581,7 +4581,7 @@
     },
     "114463": {
         "claim": "bethany hamilton s biopic be produce by sean mcnamara",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Soul_Surfer_-LRB-film-RRB-",
@@ -4595,7 +4595,7 @@
     },
     "114475": {
         "claim": "bone be a work",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bones_-LRB-TV_series-RRB-",
@@ -5115,7 +5115,7 @@
     },
     "116113": {
         "claim": "lou gehrig be vote a great first baseman",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Lou_Gehrig",
@@ -5349,7 +5349,7 @@
     },
     "117065": {
         "claim": "renato balestra be bear outside of trieste",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Renato_Balestra",
@@ -5379,7 +5379,7 @@
     },
     "117369": {
         "claim": "a river run through it be a single picture",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "A_River_Runs_Through_It_-LRB-film-RRB-",
@@ -5895,7 +5895,7 @@
     },
     "119201": {
         "claim": "the concert for bangladesh be recognize a a highly unsuccessful and minor humanitarian aid project",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_Concert_for_Bangladesh",
@@ -6117,7 +6117,7 @@
     },
     "119940": {
         "claim": "the mighty duck be produce by doug the pug",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_Mighty_Ducks",
@@ -6317,7 +6317,7 @@
     },
     "120759": {
         "claim": "house end after it pilot",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "House_-LRB-TV_series-RRB-",
@@ -6365,7 +6365,7 @@
     },
     "120971": {
         "claim": "stanley williams die in 2007",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Stanley_Williams",
@@ -6403,7 +6403,7 @@
     },
     "121119": {
         "claim": "the 14th dalai lama live in japan exclusively",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "14th_Dalai_Lama",
@@ -6523,7 +6523,7 @@
     },
     "121562": {
         "claim": "you belong with me have yet to be perform live",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "You_Belong_with_Me",
@@ -6557,7 +6557,7 @@
     },
     "121662": {
         "claim": "penguin book revolutionize publish",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Penguin_Books",
@@ -6739,7 +6739,7 @@
     },
     "122673": {
         "claim": "global warm threaten food security",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Global_warming",
@@ -6925,7 +6925,7 @@
     },
     "123226": {
         "claim": "takepart be a division of a school",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "TakePart",
@@ -7083,7 +7083,7 @@
     },
     "123756": {
         "claim": "papua be formerly call west iran",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Papua_-LRB-province-RRB-",
@@ -7187,7 +7187,7 @@
     },
     "124088": {
         "claim": "daggering be a form of jamaican dance",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Daggering",
@@ -7251,7 +7251,7 @@
     },
     "124400": {
         "claim": "annette badland play only doomsday dora in the imitation game",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Annette_Badland",
@@ -7379,7 +7379,7 @@
     },
     "124817": {
         "claim": "fist of legend be a remake of a poem by lo wei",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Fist_of_Fury",
@@ -7531,7 +7531,7 @@
     },
     "125197": {
         "claim": "jack falahee be an actor and he be unknown",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Jack_Falahee",
@@ -7609,7 +7609,7 @@
     },
     "125437": {
         "claim": "dakota fan be not a model",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Dakota_Fanning",
@@ -7905,7 +7905,7 @@
     },
     "126455": {
         "claim": "moonlight s film begin after 2002",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Moonlight_-LRB-2016_film-RRB-",
@@ -8045,7 +8045,7 @@
     },
     "126878": {
         "claim": "aleister crowley be bear on june 12 1875",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Aleister_Crowley",
@@ -8149,7 +8149,7 @@
     },
     "127118": {
         "claim": "a view to a kill be the third jam bond film direct by john glen and release in 2002",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "A_View_to_a_Kill",
@@ -8287,7 +8287,7 @@
     },
     "12748": {
         "claim": "the ruin of the ancient roman town of herculaneum lie two hundred mile from naples",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Naples",
@@ -8297,7 +8297,7 @@
     },
     "127539": {
         "claim": "morse code be communication",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Morse_code",
@@ -8371,7 +8371,7 @@
     },
     "127833": {
         "claim": "taran killam be a person",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Excess_post-exercise_oxygen_consumption",
@@ -8557,7 +8557,7 @@
     },
     "128476": {
         "claim": "luke cage be a person who have superhuman ability",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Stemagoris",
@@ -8577,7 +8577,7 @@
     },
     "128575": {
         "claim": "melancholia s director be lars von trier",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Melancholia_-LRB-2011_film-RRB-",
@@ -9019,7 +9019,7 @@
     },
     "130271": {
         "claim": "henry viii tv serial star an actor who be bear in a germany",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Nathaniel_Hewit",
@@ -9265,7 +9265,7 @@
     },
     "130923": {
         "claim": "matthew gray gubler be not a model",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Matthew_Gray_Gubler",
@@ -10545,7 +10545,7 @@
     },
     "134789": {
         "claim": "raees film star nawazuddin siddiqui a ip jaideep ambalal majmudar",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "List_of_flexible-winged_aircraft",
@@ -11507,7 +11507,7 @@
     },
     "137790": {
         "claim": "tool be a rock band that form in 1990",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tool_-LRB-band-RRB-",
@@ -11709,7 +11709,7 @@
     },
     "138301": {
         "claim": "birthday song 2 chainz song be produce by a producer",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Kanye_West",
@@ -11735,7 +11735,7 @@
     },
     "138319": {
         "claim": "duff mckagan be a scientologist",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Wac\u0142aw_Kostek-Biernacki",
@@ -11969,7 +11969,7 @@
     },
     "139317": {
         "claim": "due date be shoot in space",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Due_Date",
@@ -12867,7 +12867,7 @@
     },
     "142127": {
         "claim": "the battle of france be a german invasion",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Battle_of_France",
@@ -12905,7 +12905,7 @@
     },
     "142161": {
         "claim": "match point explore exclusively the role of misfortune in life",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Match_Point",
@@ -13171,7 +13171,7 @@
     },
     "143060": {
         "claim": "french indochina be officially know a mario after 1947",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "French_Indochina",
@@ -13399,7 +13399,7 @@
     },
     "143807": {
         "claim": "paramore be not from tennessee",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Paramore",
@@ -13703,7 +13703,7 @@
     },
     "144809": {
         "claim": "amgtv be a family orient comic book",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "AMGTV",
@@ -13917,7 +13917,7 @@
     },
     "145672": {
         "claim": "ingushetia be establish in 1993",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Ingushetia",
@@ -13927,7 +13927,7 @@
     },
     "145705": {
         "claim": "eva green make her film debut in a 2001 film direct by bernardo bertolucci",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Eva_Green",
@@ -13977,7 +13977,7 @@
     },
     "145956": {
         "claim": "aleister crowley be bear on mar",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Aleister_Crowley",
@@ -14047,7 +14047,7 @@
     },
     "146231": {
         "claim": "juventus f c reject their traditional black and white strip home uniform in 1903",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Juventus_F.C.",
@@ -14309,7 +14309,7 @@
     },
     "147577": {
         "claim": "dilwale dulhania le jayenge begin film in china",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Dilwale_Dulhania_Le_Jayenge",
@@ -14491,7 +14491,7 @@
     },
     "148377": {
         "claim": "magic johnson play basketball",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Magic_Johnson",
@@ -14533,7 +14533,7 @@
     },
     "148516": {
         "claim": "tottenham hotspur f c be defunct",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Virtue_Runs_Wild",
@@ -14683,7 +14683,7 @@
     },
     "148981": {
         "claim": "jim halpert be play by john krasinski",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "John_Krasinski",
@@ -14733,7 +14733,7 @@
     },
     "149087": {
         "claim": "peking university be in a unitary sovereign state in eastern europe",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Peking_University",
@@ -15059,7 +15059,7 @@
     },
     "150044": {
         "claim": "amgtv be an adult orient television network",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "AMGTV",
@@ -15113,7 +15113,7 @@
     },
     "150221": {
         "claim": "john glen direct a view to a kill",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "A_View_to_a_Kill",
@@ -15153,7 +15153,7 @@
     },
     "150571": {
         "claim": "damon albarn release his first album in 2014",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Damon_Albarn",
@@ -15365,7 +15365,7 @@
     },
     "151474": {
         "claim": "wish upon be release in march of 2017",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Wish_Upon",
@@ -15531,7 +15531,7 @@
     },
     "152108": {
         "claim": "murda beatz be fully japanese",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Handvo",
@@ -15661,7 +15661,7 @@
     },
     "152850": {
         "claim": "daag be a telugu film",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bollywood",
@@ -15969,7 +15969,7 @@
     },
     "154423": {
         "claim": "bessie smith be a heavy metal singer",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bessie_Smith",
@@ -16817,7 +16817,7 @@
     },
     "157492": {
         "claim": "arizona be not a state",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Arizona",
@@ -16965,7 +16965,7 @@
     },
     "157859": {
         "claim": "bad romance be a single by lady gaga",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Jessheim_Station",
@@ -16975,7 +16975,7 @@
     },
     "157860": {
         "claim": "underdog star harrison ford",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ghulam_Farooq_-LRB-detainee-RRB-",
@@ -17269,7 +17269,7 @@
     },
     "159567": {
         "claim": "dan o bannon be bear on september 20th 1955",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Dan_O'Bannon",
@@ -17309,7 +17309,7 @@
     },
     "159575": {
         "claim": "dan o bannon die on december 17th 2009",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Dan_O'Bannon",
@@ -17329,7 +17329,7 @@
     },
     "159580": {
         "claim": "dan o bannon die",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Dan_O'Bannon",
@@ -17595,7 +17595,7 @@
     },
     "159722": {
         "claim": "edgar wright be a gemini",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Edgar_Wright",
@@ -17679,7 +17679,7 @@
     },
     "16007": {
         "claim": "riverdale be an adaptation",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Riverdale_-LRB-2017_TV_series-RRB-",
@@ -17717,7 +17717,7 @@
     },
     "160391": {
         "claim": "juventus f c be the second oldest soccer team in italy",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Juventus_F.C.",
@@ -17767,7 +17767,7 @@
     },
     "160715": {
         "claim": "french indochina be a group of french colonial territory in 1995",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "French_Indochina",
@@ -17889,7 +17889,7 @@
     },
     "161206": {
         "claim": "french indochina be a group of only one french colonial territory",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "French_Indochina",
@@ -18081,7 +18081,7 @@
     },
     "161572": {
         "claim": "baz luhrmann only have film from 2007",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Baz_Luhrmann",
@@ -18169,7 +18169,7 @@
     },
     "161843": {
         "claim": "robert lopez have receive zero tony award",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Robert_Lopez",
@@ -18219,7 +18219,7 @@
     },
     "161864": {
         "claim": "robert lopez have be nominate for but lose emmy award",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Robert_Lopez",
@@ -18319,7 +18319,7 @@
     },
     "163965": {
         "claim": "veeram s subject be siva",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Open_access_in_Venezuela",
@@ -18497,7 +18497,7 @@
     },
     "164986": {
         "claim": "polar bear be classify a endanger",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Polar_bear",
@@ -18537,7 +18537,7 @@
     },
     "164999": {
         "claim": "polar bear depend on the arctic ocean a their main food source",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Polar_bear",
@@ -18571,7 +18571,7 @@
     },
     "165113": {
         "claim": "mickey rourke write iron man 2",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Rudelzhausen",
@@ -18629,7 +18629,7 @@
     },
     "165127": {
         "claim": "mickey rourke have only appear in film base on real people",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Mickey_Rourke",
@@ -18643,7 +18643,7 @@
     },
     "165128": {
         "claim": "mickey rourke appear in a film",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Mickey_Rourke",
@@ -18801,7 +18801,7 @@
     },
     "165251": {
         "claim": "there be film score in existence that have be compose by phillip glass",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Philip_Glass",
@@ -19007,7 +19007,7 @@
     },
     "16579": {
         "claim": "riddick be a fail character",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Hodgins",
@@ -19715,7 +19715,7 @@
     },
     "166907": {
         "claim": "johanna braddy star in a game show tv series in 2015",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ghost_Theater",
@@ -19977,7 +19977,7 @@
     },
     "168011": {
         "claim": "don bradman be an athlete",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Don_Bradman",
@@ -20175,7 +20175,7 @@
     },
     "16811": {
         "claim": "efraim diveroli be a spaniard",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Efraim_Diveroli",
@@ -20215,7 +20215,7 @@
     },
     "168538": {
         "claim": "rick yune have only ever be in cinematic film",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Rick_Yune",
@@ -20225,7 +20225,7 @@
     },
     "168543": {
         "claim": "rick yune be on a tv series with marco polo",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Rick_Yune",
@@ -20235,7 +20235,7 @@
     },
     "168546": {
         "claim": "rick yune have appear only exclusively on radio",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Rick_Yune",
@@ -20357,7 +20357,7 @@
     },
     "168999": {
         "claim": "manmohan singh be a prime minister after the first prime minister of india",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Manmohan_Singh",
@@ -20627,7 +20627,7 @@
     },
     "170419": {
         "claim": "michael vick be conceive on june 26th 1980",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Michael_Vick",
@@ -20757,7 +20757,7 @@
     },
     "170953": {
         "claim": "smriti mandhana be bear in august",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Smriti_Mandhana",
@@ -20897,7 +20897,7 @@
     },
     "17129": {
         "claim": "jens stoltenberg be prime minister of canada from 2000 to 2001",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Jens_Stoltenberg",
@@ -20927,7 +20927,7 @@
     },
     "171605": {
         "claim": "syracuse new york have a population of 145 170 accord to the 1999 aaa tourbook",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Syracuse,_New_York",
@@ -21037,7 +21037,7 @@
     },
     "171635": {
         "claim": "dave gibbon be an english comic book artist for marvel comic",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Dave_Gibbons",
@@ -22001,7 +22001,7 @@
     },
     "173725": {
         "claim": "earl scruggs be bear in january",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Earl_Scruggs",
@@ -22011,7 +22011,7 @@
     },
     "173727": {
         "claim": "earl scruggs be exclusively canadian",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Earl_Scruggs",
@@ -22041,7 +22041,7 @@
     },
     "174013": {
         "claim": "the endless river be pink floyd s second to last studio album",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "The_Endless_River",
@@ -22109,7 +22109,7 @@
     },
     "174026": {
         "claim": "the endless river be an album by danny devito",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_Endless_River",
@@ -22175,7 +22175,7 @@
     },
     "174031": {
         "claim": "the endless river be an album by a band form in tokyo",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Pink_Floyd",
@@ -22437,7 +22437,7 @@
     },
     "175476": {
         "claim": "christian gottlob neefe die in 1750",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Christian_Gottlob_Neefe",
@@ -22471,7 +22471,7 @@
     },
     "175485": {
         "claim": "christian gottlob neefe be only an opera singer",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Christian_Gottlob_Neefe",
@@ -22529,7 +22529,7 @@
     },
     "175643": {
         "claim": "fabian nicieza only write screenplay",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Fabian_Nicieza",
@@ -23133,7 +23133,7 @@
     },
     "179004": {
         "claim": "steve ditko have only ever study in boston",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Steve_Ditko",
@@ -23253,7 +23253,7 @@
     },
     "179040": {
         "claim": "congressional space medal of honor be the highest honor give by nasa",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Congressional_Space_Medal_of_Honor",
@@ -23277,7 +23277,7 @@
     },
     "179046": {
         "claim": "congressional space medal of honor be award by the first lady",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Congressional_Space_Medal_of_Honor",
@@ -23777,7 +23777,7 @@
     },
     "180590": {
         "claim": "swordfish film be a film that be about a person who be target for a bank robbery conspiracy in the u s",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Honeymoon_for_Three_-LRB-1941_film-RRB-",
@@ -23855,7 +23855,7 @@
     },
     "180736": {
         "claim": "victoria dance exponent song be a book release in 1982",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Victoria_-LRB-Dance_Exponents_song-RRB-",
@@ -23953,7 +23953,7 @@
     },
     "181184": {
         "claim": "southpaw be write by kurt sutter",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Southpaw_-LRB-film-RRB-",
@@ -24021,7 +24021,7 @@
     },
     "181205": {
         "claim": "southpaw be only a sport drama book",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Southpaw_-LRB-film-RRB-",
@@ -24457,7 +24457,7 @@
     },
     "181871": {
         "claim": "princess mononoke have a dark atmosphere",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Princess_Mononoke",
@@ -24507,7 +24507,7 @@
     },
     "181888": {
         "claim": "princess mononoke only have a peaceful set",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Darlington_Record_Club",
@@ -24577,7 +24577,7 @@
     },
     "181995": {
         "claim": "forceps be only an unhinge instrument",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ash_Lawn\u2013Highland",
@@ -24607,7 +24607,7 @@
     },
     "182271": {
         "claim": "saturn corporation have no trademark",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Saturn_Corporation",
@@ -24821,7 +24821,7 @@
     },
     "183586": {
         "claim": "find dory be direct by ingmar bergman",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Finding_Dory",
@@ -24831,7 +24831,7 @@
     },
     "183588": {
         "claim": "find dory be direct by angus maclane",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Finding_Dory",
@@ -24841,7 +24841,7 @@
     },
     "183589": {
         "claim": "find dory be direct by ingmar bergman",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Finding_Dory",
@@ -24871,7 +24871,7 @@
     },
     "183597": {
         "claim": "find dory be direct by an american",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Finding_Dory",
@@ -25029,7 +25029,7 @@
     },
     "183633": {
         "claim": "find dory be direct by anyone except angus maclane",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Finding_Dory",
@@ -25355,7 +25355,7 @@
     },
     "18464": {
         "claim": "gordon ramsay have not promote any chef",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Gordon_Ramsay",
@@ -25679,7 +25679,7 @@
     },
     "185390": {
         "claim": "chip be base on a tv series",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "CHiPs_-LRB-film-RRB-",
@@ -25749,7 +25749,7 @@
     },
     "185402": {
         "claim": "chip be exclusively a german film",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "CHiPs_-LRB-film-RRB-",
@@ -25779,7 +25779,7 @@
     },
     "185408": {
         "claim": "chip be an american action novel",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "CHiPs_-LRB-film-RRB-",
@@ -25843,7 +25843,7 @@
     },
     "185422": {
         "claim": "chip be an american buddy cop novel",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "CHiPs_-LRB-film-RRB-",
@@ -26033,7 +26033,7 @@
     },
     "186323": {
         "claim": "one novel be the basis for the hunchback of notre dame",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_Hunchback_of_Notre_Dame_-LRB-1923_film-RRB-",
@@ -26201,7 +26201,7 @@
     },
     "186884": {
         "claim": "live through this have sell le than 1 6 million copy",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Live_Through_This",
@@ -26321,7 +26321,7 @@
     },
     "186998": {
         "claim": "bermuda triangle be in the eastern part of the atlantic ocean",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Bermuda_Triangle",
@@ -26331,7 +26331,7 @@
     },
     "187000": {
         "claim": "bermuda triangle be in the western part of the himalaya",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Bermuda_Triangle",
@@ -26371,7 +26371,7 @@
     },
     "187119": {
         "claim": "eva mend be bear in 1999",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Eva_Mendes",
@@ -26569,7 +26569,7 @@
     },
     "187792": {
         "claim": "the sterile cuckoo be adapt from a novel write by a belgian novelist",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "John_Nichols_-LRB-writer-RRB-",
@@ -26623,7 +26623,7 @@
     },
     "18823": {
         "claim": "the quran be a wwe wrestler",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Quran",
@@ -26749,7 +26749,7 @@
     },
     "189458": {
         "claim": "yandex be only a book",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Yandex",
@@ -27337,7 +27337,7 @@
     },
     "192714": {
         "claim": "cbs be the network that air the miller",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_Millers",
@@ -27367,7 +27367,7 @@
     },
     "192825": {
         "claim": "ian brennan be a writer for dawson s creek",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ian_Brennan_-LRB-writer-RRB-",
@@ -27883,7 +27883,7 @@
     },
     "193904": {
         "claim": "bea arthur be solely german",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bea_Arthur",
@@ -27913,7 +27913,7 @@
     },
     "193911": {
         "claim": "bea arthur be conceive on may 13th 1922",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Bea_Arthur",
@@ -28261,7 +28261,7 @@
     },
     "194477": {
         "claim": "tilda swinton be a film actress",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Element_collecting",
@@ -28761,7 +28761,7 @@
     },
     "195008": {
         "claim": "girl be by an american singer",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Girl_-LRB-Pharrell_Williams_album-RRB-",
@@ -29081,7 +29081,7 @@
     },
     "195812": {
         "claim": "jeong hyeong don s birthday be may 7",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Jeong_Hyeong-don",
@@ -29211,7 +29211,7 @@
     },
     "195922": {
         "claim": "freeze rank a the fourth highest gross original film of all time",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Frozen_-LRB-2013_film-RRB-",
@@ -29259,7 +29259,7 @@
     },
     "196735": {
         "claim": "marnie be direct by whoopi goldberg",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Marnie_-LRB-film-RRB-",
@@ -29369,7 +29369,7 @@
     },
     "196762": {
         "claim": "marnie be exclusively an italian film",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Marnie_-LRB-film-RRB-",
@@ -29517,7 +29517,7 @@
     },
     "197343": {
         "claim": "luke cage be feature a a protagonist of a movie",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Traktor_Ice_Arena",
@@ -29635,7 +29635,7 @@
     },
     "197381": {
         "claim": "sim\u00f3n bol\u00edvar be only know a sim\u00f3n bol\u00edvar",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Simo\u0301n_Boli\u0301var",
@@ -29805,7 +29805,7 @@
     },
     "198041": {
         "claim": "the new york city landmark preservation commission include zero architect",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "New_York_City_Landmarks_Preservation_Commission",
@@ -30307,7 +30307,7 @@
     },
     "200294": {
         "claim": "the screenplay for natural bear killer be heavily revise by writer and director oliver stone",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Species_-LRB-film-RRB-",
@@ -30435,7 +30435,7 @@
     },
     "200391": {
         "claim": "tom delonge form blink 182 in 2002",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tom_DeLonge",
@@ -31057,7 +31057,7 @@
     },
     "202026": {
         "claim": "tamerlan tsarnaev have a male sibling",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tamerlan_Tsarnaev",
@@ -31139,7 +31139,7 @@
     },
     "202044": {
         "claim": "tamerlan tsarnaev be declare a suspect of the boston bomb by the fbi",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Tamerlan_Tsarnaev",
@@ -31189,7 +31189,7 @@
     },
     "202052": {
         "claim": "the fbi always declare there be a zero percent chance that tamerlan tsarnaev could be involve in any bomb",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Donnchad_mac_Cellach\u00e1in",
@@ -31337,7 +31337,7 @@
     },
     "202460": {
         "claim": "tinker tailor soldier spy be only a tv show",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tinker_Tailor_Soldier_Spy_-LRB-film-RRB-",
@@ -31371,7 +31371,7 @@
     },
     "202461": {
         "claim": "tinker tailor soldier spy star an actor",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tinker_Tailor_Soldier_Spy_-LRB-film-RRB-",
@@ -31399,7 +31399,7 @@
     },
     "202472": {
         "claim": "tinker tailor soldier spy star an actor",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tinker_Tailor_Soldier_Spy_-LRB-film-RRB-",
@@ -31435,7 +31435,7 @@
     },
     "202475": {
         "claim": "tinker tailor soldier spy only star gary oldman",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tinker_Tailor_Soldier_Spy_-LRB-film-RRB-",
@@ -31503,7 +31503,7 @@
     },
     "202762": {
         "claim": "despicable me 2 be direct exclusively by elmo",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Despicable_Me_2",
@@ -31513,7 +31513,7 @@
     },
     "202765": {
         "claim": "despicable me 2 be write by cinco paul",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Despicable_Me_2",
@@ -31585,7 +31585,7 @@
     },
     "202780": {
         "claim": "despicable me 2 be produce by yahoo",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Despicable_Me_2",
@@ -31653,7 +31653,7 @@
     },
     "202793": {
         "claim": "despicable me 2 be produce by a company",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Despicable_Me_2",
@@ -31667,7 +31667,7 @@
     },
     "202794": {
         "claim": "despicable me 2 be produce exclusively by yahoo",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Despicable_Me_2",
@@ -31761,7 +31761,7 @@
     },
     "202928": {
         "claim": "avenge sevenfold be the fourth live album of avenge sevenfold",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Avenged_Sevenfold_-LRB-album-RRB-",
@@ -31771,7 +31771,7 @@
     },
     "202930": {
         "claim": "avenge sevenfold be a statue of an american heavy metal band",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Avenged_Sevenfold_-LRB-album-RRB-",
@@ -31809,7 +31809,7 @@
     },
     "202932": {
         "claim": "in 2007 on the day before halloween avenge sevenfold be release",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Halloween",
@@ -31823,7 +31823,7 @@
     },
     "202936": {
         "claim": "avenge sevenfold be an album by an american jazz band",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Avenged_Sevenfold_-LRB-album-RRB-",
@@ -32005,7 +32005,7 @@
     },
     "203012": {
         "claim": "the chairwoman of lockheed martin and the president be currently the same person",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Decasyllable",
@@ -32409,7 +32409,7 @@
     },
     "204034": {
         "claim": "down with love be an american film",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Deirdre_Mullins",
@@ -32601,7 +32601,7 @@
     },
     "204427": {
         "claim": "brad wilk help co find linkin park",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Hemant",
@@ -33171,7 +33171,7 @@
     },
     "206159": {
         "claim": "palo alto california be locate in orange county",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Palo_Alto,_California",
@@ -33287,7 +33287,7 @@
     },
     "20694": {
         "claim": "mount rushmore be build by gutzon borglum and his son",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Mount_Rushmore",
@@ -33489,7 +33489,7 @@
     },
     "207521": {
         "claim": "mel b die before release a song on virgin record",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Mel_B",
@@ -33929,7 +33929,7 @@
     },
     "209093": {
         "claim": "stadium arcadium be release in or before 1997",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Stadium_Arcadium",
@@ -34225,7 +34225,7 @@
     },
     "211291": {
         "claim": "the closer s seventh season begin in july 2012",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "The_Closer",
@@ -34449,7 +34449,7 @@
     },
     "212183": {
         "claim": "miracle at st anna tell the story of four soldier",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Miracle_at_St._Anna",
@@ -34479,7 +34479,7 @@
     },
     "212192": {
         "claim": "miracle at st anna tell the story of six soldier",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Miracle_at_St._Anna",
@@ -34701,7 +34701,7 @@
     },
     "212768": {
         "claim": "the undergraduate college of harvard university become coeducational after it merger with boston college",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Harvard_University",
@@ -35125,7 +35125,7 @@
     },
     "215201": {
         "claim": "dreamer 2005 film be an american 2005 television show",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Dreamer_-LRB-2005_film-RRB-",
@@ -35285,7 +35285,7 @@
     },
     "215477": {
         "claim": "weekly idol have one host mickey rourke",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Weekly_Idol",
@@ -35343,7 +35343,7 @@
     },
     "215500": {
         "claim": "weekly idol be host by yoo jae suk",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Weekly_Idol",
@@ -35517,7 +35517,7 @@
     },
     "216389": {
         "claim": "homer hickman be a writer of historical fiction book",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Homer_Hickam",
@@ -35673,7 +35673,7 @@
     },
     "217196": {
         "claim": "a monk be solely a non human animal",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Monk",
@@ -35921,7 +35921,7 @@
     },
     "21775": {
         "claim": "vedam be write and direct by christopher nolan",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Vedam_-LRB-film-RRB-",
@@ -36213,7 +36213,7 @@
     },
     "21899": {
         "claim": "morse code be use in air traffic control",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Morse_code",
@@ -36273,7 +36273,7 @@
     },
     "219047": {
         "claim": "savage be an american child s film",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Jwaalamukhi",
@@ -36313,7 +36313,7 @@
     },
     "219128": {
         "claim": "valencia be in valencia spain",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Valencia",
@@ -36717,7 +36717,7 @@
     },
     "222025": {
         "claim": "brubaker be an award win film",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Quad_-LRB-arts_centre-RRB-",
@@ -36737,7 +36737,7 @@
     },
     "222028": {
         "claim": "brubaker be a 1950 film",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Brubaker",
@@ -36787,7 +36787,7 @@
     },
     "222038": {
         "claim": "brubaker be an award win american film",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Texas_Zephyr",
@@ -36835,7 +36835,7 @@
     },
     "222049": {
         "claim": "brubaker be a korean film",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Brubaker",
@@ -36865,7 +36865,7 @@
     },
     "22310": {
         "claim": "fred armisen be a cat",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Fred_Armisen",
@@ -37113,7 +37113,7 @@
     },
     "224371": {
         "claim": "southampton f c have win a competition",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Southampton_F.C.",
@@ -37187,7 +37187,7 @@
     },
     "22491": {
         "claim": "ann richards be a governor for four year",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ann_Richards",
@@ -37347,7 +37347,7 @@
     },
     "225239": {
         "claim": "danielle cormack be bear in may",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Danielle_Cormack",
@@ -37543,7 +37543,7 @@
     },
     "226102": {
         "claim": "bongwater be base on a book",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Bongwater_-LRB-film-RRB-",
@@ -37553,7 +37553,7 @@
     },
     "226105": {
         "claim": "bongwater be a completely original story",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bongwater_-LRB-film-RRB-",
@@ -37693,7 +37693,7 @@
     },
     "226146": {
         "claim": "richard dawkins have yet to appear on the internet",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Richard_Dawkins",
@@ -37859,7 +37859,7 @@
     },
     "227070": {
         "claim": "roar song be on the 2017 album prism",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Roar_-LRB-song-RRB-",
@@ -37939,7 +37939,7 @@
     },
     "227121": {
         "claim": "new orleans pelican play in the nba in the western conference",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "New_Orleans_Pelicans",
@@ -38167,7 +38167,7 @@
     },
     "228323": {
         "claim": "island record be found in jamaica",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Island_Records",
@@ -38247,7 +38247,7 @@
     },
     "228432": {
         "claim": "the wallace poem be historically accurate",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_Wallace_-LRB-poem-RRB-",
@@ -38751,7 +38751,7 @@
     },
     "24247": {
         "claim": "mohra have yet to be make into a film",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Mohra",
@@ -38899,7 +38899,7 @@
     },
     "24839": {
         "claim": "stanley williams be bear in 2005",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Stanley_Williams",
@@ -39389,7 +39389,7 @@
     },
     "26690": {
         "claim": "in the end be positively review",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "In_the_End",
@@ -39493,7 +39493,7 @@
     },
     "27041": {
         "claim": "fidel castro transfer his responsibility to his brother",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Rau\u0301l_Castro",
@@ -39581,7 +39581,7 @@
     },
     "27497": {
         "claim": "peking university be in thailand",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Peking_University",
@@ -39611,7 +39611,7 @@
     },
     "27753": {
         "claim": "stephen hillenburg be bear in oklahoma",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Stephen_Hillenburg",
@@ -39661,7 +39661,7 @@
     },
     "27897": {
         "claim": "brian michael bendis die before video game be create",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Brian_Michael_Bendis",
@@ -39751,7 +39751,7 @@
     },
     "28499": {
         "claim": "angela bassett be alive",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Angela_Bassett",
@@ -39805,7 +39805,7 @@
     },
     "28679": {
         "claim": "creedence clearwater revival be not active in the late 1960s and early 1970s",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Creedence_Clearwater_Revival",
@@ -39819,7 +39819,7 @@
     },
     "28716": {
         "claim": "trollhunters be only produce by donald trump",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Trollhunters",
@@ -40011,7 +40011,7 @@
     },
     "29443": {
         "claim": "i kiss a girl be an album",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "I_Kissed_a_Girl",
@@ -40115,7 +40115,7 @@
     },
     "29618": {
         "claim": "bessie smith be bear breach on april 15 1894",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "2015_Tipperary_senior_hurling_team_season",
@@ -40379,7 +40379,7 @@
     },
     "30486": {
         "claim": "trevor griffith be bear in boston massachusetts",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Trevor_Griffiths",
@@ -40529,7 +40529,7 @@
     },
     "3106": {
         "claim": "the armenian genocide be the ottoman government s systematic extermination of 1 5 million armenian",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Armenian_Genocide",
@@ -40697,7 +40697,7 @@
     },
     "32076": {
         "claim": "mick thomson be a guitarist",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Mick_Thomson",
@@ -40767,7 +40767,7 @@
     },
     "32402": {
         "claim": "tottenham hotspur f c be a cricket club",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Tottenham_Hotspur_F.C.",
@@ -40777,7 +40777,7 @@
     },
     "32505": {
         "claim": "underdog star nine american actor",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Underdog_-LRB-film-RRB-",
@@ -40787,7 +40787,7 @@
     },
     "32679": {
         "claim": "duane chapman s nickname be dog",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Duane_Chapman",
@@ -40827,7 +40827,7 @@
     },
     "32796": {
         "claim": "henry viii tv serial have an all female cast",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Sean_Bean",
@@ -41125,7 +41125,7 @@
     },
     "33277": {
         "claim": "sandra bullock be fire by abc",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Universal_Creative",
@@ -41457,7 +41457,7 @@
     },
     "34412": {
         "claim": "jayasudha be an actor that star in daag",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Daag_-LRB-1973_film-RRB-",
@@ -41477,7 +41477,7 @@
     },
     "34677": {
         "claim": "a microcomputer be design by steve wozniak",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Steve_Wozniak",
@@ -41743,7 +41743,7 @@
     },
     "35695": {
         "claim": "aparshakti khurana direct dangal",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Aparshakti_Khurana",
@@ -41767,7 +41767,7 @@
     },
     "3583": {
         "claim": "robert palmer writer have write for the new york time",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Robert_Palmer_-LRB-writer-RRB-",
@@ -41801,7 +41801,7 @@
     },
     "35844": {
         "claim": "psych s protagonist be not play by an american actor",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Psych",
@@ -42087,7 +42087,7 @@
     },
     "36885": {
         "claim": "carlos santana be bear in the forty",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Carlos_Santana",
@@ -42199,7 +42199,7 @@
     },
     "37265": {
         "claim": "vedam be a 2010 indian soccer mvp",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Vedam_-LRB-film-RRB-",
@@ -42607,7 +42607,7 @@
     },
     "38587": {
         "claim": "the concert for bangladesh raise almost 250 000 for bangladesh relief",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_Concert_for_Bangladesh",
@@ -42727,7 +42727,7 @@
     },
     "39342": {
         "claim": "the first inauguration of bill clinton make him the 22nd super bowl most valuable player",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "First_inauguration_of_Bill_Clinton",
@@ -42737,7 +42737,7 @@
     },
     "39351": {
         "claim": "david packouz do entrepreneurial pursuit",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "David_Packouz",
@@ -43427,7 +43427,7 @@
     },
     "42201": {
         "claim": "house contain a character play by omar epps",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "House_-LRB-TV_series-RRB-",
@@ -43501,7 +43501,7 @@
     },
     "42470": {
         "claim": "fidel castro be a person",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Fidel_Castro",
@@ -43601,7 +43601,7 @@
     },
     "42709": {
         "claim": "duff mckagan refuse to ever be a musician",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Duff_McKagan",
@@ -43823,7 +43823,7 @@
     },
     "43523": {
         "claim": "billboard dad be release in 1968",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Billboard_Dad",
@@ -44127,7 +44127,7 @@
     },
     "45036": {
         "claim": "reign over me be release",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Reign_Over_Me",
@@ -44197,7 +44197,7 @@
     },
     "4529": {
         "claim": "john dolmayan be a musician",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "John_Dolmayan",
@@ -44265,7 +44265,7 @@
     },
     "45565": {
         "claim": "seohyun be a performer",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Seohyun",
@@ -44343,7 +44343,7 @@
     },
     "45818": {
         "claim": "fidel castro have a brother call ra\u00fal castro",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Rau\u0301l_Castro",
@@ -44409,7 +44409,7 @@
     },
     "46065": {
         "claim": "the naacp image award for outstanding support actor in a drama series be last give in 1995",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "NAACP_Image_Award_for_Outstanding_Supporting_Actor_in_a_Drama_Series",
@@ -44449,7 +44449,7 @@
     },
     "46332": {
         "claim": "jennifer lopez be marry at least twice",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "List_of_Macedonian_writers",
@@ -44735,7 +44735,7 @@
     },
     "4728": {
         "claim": "jam vi and i be a major adversary of a single parliament for scotland",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "James_VI_and_I",
@@ -45029,7 +45029,7 @@
     },
     "48390": {
         "claim": "in 1970 san diego comic con be found",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "San_Diego_Comic-Con",
@@ -45039,7 +45039,7 @@
     },
     "48499": {
         "claim": "the dress be a paint",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_dress",
@@ -45467,7 +45467,7 @@
     },
     "50116": {
         "claim": "the adventure of pluto nash star at least one person that be bear in the 20th century",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Randy_Quaid",
@@ -45573,7 +45573,7 @@
     },
     "50537": {
         "claim": "mount rushmore be build by gutzon borglum and his nephew lincoln borglum",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Mount_Rushmore",
@@ -45745,7 +45745,7 @@
     },
     "51251": {
         "claim": "arizona be locate within two region of the unite state",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Kuz_Parwa",
@@ -45999,7 +45999,7 @@
     },
     "52559": {
         "claim": "the genre of colombiana be action",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Colombiana",
@@ -46009,7 +46009,7 @@
     },
     "52572": {
         "claim": "bad romance be one of the best sell stock of all time",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Bad_Romance",
@@ -46349,7 +46349,7 @@
     },
     "53421": {
         "claim": "papua comprise all of a country",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Papua_-LRB-province-RRB-",
@@ -46847,7 +46847,7 @@
     },
     "55460": {
         "claim": "shadowhunters premier on freeform on may 18 2011",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Shadowhunters",
@@ -46857,7 +46857,7 @@
     },
     "55571": {
         "claim": "microbiologist research promote information find in immunology",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Microbiologist",
@@ -47093,7 +47093,7 @@
     },
     "56512": {
         "claim": "edmund h north be british",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Edmund_H._North",
@@ -47133,7 +47133,7 @@
     },
     "56729": {
         "claim": "gordan ramsay have not have apprentice",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Gordon_Ramsay",
@@ -47293,7 +47293,7 @@
     },
     "56951": {
         "claim": "miranda otto begin her fish career in 1986",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Miranda_Otto",
@@ -47427,7 +47427,7 @@
     },
     "5737": {
         "claim": "melancholia be direct by lars von trier",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Melancholia_-LRB-2011_film-RRB-",
@@ -47785,7 +47785,7 @@
     },
     "58765": {
         "claim": "john dolmayan be a squid",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "John_Dolmayan",
@@ -47847,7 +47847,7 @@
     },
     "58926": {
         "claim": "rabies be infectious",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Rabies",
@@ -48119,7 +48119,7 @@
     },
     "60057": {
         "claim": "vietnam be not the 14th most populous country in the world",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Vietnam",
@@ -48275,7 +48275,7 @@
     },
     "60567": {
         "claim": "nuuk be in television",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_Old_Willis_Place",
@@ -48531,7 +48531,7 @@
     },
     "61448": {
         "claim": "west virginia border ohio and florida to the northwest",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "West_Virginia",
@@ -48555,7 +48555,7 @@
     },
     "61641": {
         "claim": "francis i of france have the popular nickname francis of the large nose",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Francis_I_of_France",
@@ -48565,7 +48565,7 @@
     },
     "61795": {
         "claim": "francis i of france spend his entire life a a peasant farmer",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Francis_I_of_France",
@@ -49217,7 +49217,7 @@
     },
     "63885": {
         "claim": "off the wall be a playlist",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Off_the_Wall",
@@ -49449,7 +49449,7 @@
     },
     "64685": {
         "claim": "the bassoon king be the full title a book",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_Bassoon_King",
@@ -49741,7 +49741,7 @@
     },
     "65683": {
         "claim": "leonard nimoy act in a computer game",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Leonard_Nimoy",
@@ -49957,7 +49957,7 @@
     },
     "66493": {
         "claim": "wish upon be eat by john r leonetti",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Wish_Upon",
@@ -50055,7 +50055,7 @@
     },
     "6684": {
         "claim": "colin kaepernick be a start quarterback for the san francisco 49ers",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Colin_Kaepernick",
@@ -50205,7 +50205,7 @@
     },
     "67189": {
         "claim": "blue jasmine be a film",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Blue_Jasmine",
@@ -50307,7 +50307,7 @@
     },
     "67679": {
         "claim": "a milli be a song by someone bear in 1978",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "A_Milli",
@@ -50611,7 +50611,7 @@
     },
     "68746": {
         "claim": "riddick be play by vin diesel",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Riddick_-LRB-character-RRB-",
@@ -51095,7 +51095,7 @@
     },
     "7059": {
         "claim": "the road to el dorado star jim cummings",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_Road_to_El_Dorado",
@@ -51105,7 +51105,7 @@
     },
     "70599": {
         "claim": "ashton kutcher be co star with cameron diaz",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Ashton_Kutcher",
@@ -51173,7 +51173,7 @@
     },
     "70882": {
         "claim": "jackie 2016 film be direct by peter jackson",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Jackie_-LRB-2016_film-RRB-",
@@ -51481,7 +51481,7 @@
     },
     "71959": {
         "claim": "jennifer lopez make a single",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Jennifer_Lopez",
@@ -51541,7 +51541,7 @@
     },
     "72072": {
         "claim": "mud star multiple japanese actor",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bauyrzhan_Baimukhammedov",
@@ -51629,7 +51629,7 @@
     },
     "72436": {
         "claim": "the bahamas be a city",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_Bahamas",
@@ -51659,7 +51659,7 @@
     },
     "7244": {
         "claim": "creedence clearwater revival be informally abbreviate to ccr in 1970",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Hillhurst,_Washington",
@@ -51913,7 +51913,7 @@
     },
     "73080": {
         "claim": "the blood be widely know for it rivalry with the crips which date back to the 1950s",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Crips",
@@ -52305,7 +52305,7 @@
     },
     "73961": {
         "claim": "rachel green be a real life character",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Rachel_Green",
@@ -52709,7 +52709,7 @@
     },
     "75467": {
         "claim": "janelle mon\u00e1e be a trucker and surfer",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Conrad_Roberts",
@@ -52793,7 +52793,7 @@
     },
     "75877": {
         "claim": "jamie murray be not a three time grand slam double winner",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Jamie_Murray",
@@ -52803,7 +52803,7 @@
     },
     "75902": {
         "claim": "henry viii tv serial feature an english actor in a lead role",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Henry_VIII_-LRB-TV_serial-RRB-",
@@ -52895,7 +52895,7 @@
     },
     "76166": {
         "claim": "camden new jersey be in a county in new jersey",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Camden,_New_Jersey",
@@ -53265,7 +53265,7 @@
     },
     "77731": {
         "claim": "viola davis appear in the novel law order special victim unit",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Viola_Davis",
@@ -53325,7 +53325,7 @@
     },
     "78072": {
         "claim": "the washington wizard lose the conference title in 1975",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Washington_Wizards",
@@ -53601,7 +53601,7 @@
     },
     "78849": {
         "claim": "birthday song 2 chainz song be produce by eminem",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Birthday_Song_-LRB-2_Chainz_song-RRB-",
@@ -53691,7 +53691,7 @@
     },
     "79208": {
         "claim": "arizona be not a part of the unite state",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Arizona",
@@ -54083,7 +54083,7 @@
     },
     "80205": {
         "claim": "reign over me be release in 2017",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Reign_Over_Me",
@@ -54271,7 +54271,7 @@
     },
     "81060": {
         "claim": "in the end be write by lorde",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "In_the_End",
@@ -54753,7 +54753,7 @@
     },
     "83138": {
         "claim": "nuuk s location be greenland",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "University_of_Greenland",
@@ -54929,7 +54929,7 @@
     },
     "83758": {
         "claim": "soul food be release by dreamworks animation",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Soul_Food_-LRB-film-RRB-",
@@ -54969,7 +54969,7 @@
     },
     "84187": {
         "claim": "sean penn be in a movie",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Sean_Penn",
@@ -55083,7 +55083,7 @@
     },
     "8443": {
         "claim": "a milli be by justin bieber",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Tha_Carter_III",
@@ -55207,7 +55207,7 @@
     },
     "84783": {
         "claim": "marco polo be a venetian",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Marco_Polo",
@@ -55329,7 +55329,7 @@
     },
     "85172": {
         "claim": "billboard dad be direct by a man",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Billboard_Dad",
@@ -55669,7 +55669,7 @@
     },
     "86175": {
         "claim": "hourglass be perform by a russian singer songwriter",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "James_Taylor",
@@ -55723,7 +55723,7 @@
     },
     "86518": {
         "claim": "t2 trainspotting copy a 2017 british comedy drama film",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "T2_Trainspotting",
@@ -55781,7 +55781,7 @@
     },
     "86809": {
         "claim": "the 100 follow character who be student",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "2013\u201314_East_Carolina_Pirates_men's_basketball_team",
@@ -56069,7 +56069,7 @@
     },
     "88251": {
         "claim": "yale university have have few notable alumnus",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Yale_University",
@@ -56501,7 +56501,7 @@
     },
     "89891": {
         "claim": "damon albarn s debut album be release in 2011",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Damon_Albarn",
@@ -56593,7 +56593,7 @@
     },
     "90314": {
         "claim": "billboard dad be release in the 1990s",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Billboard_Dad",
@@ -56633,7 +56633,7 @@
     },
     "90367": {
         "claim": "hourglass be release in 1987",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Hourglass_-LRB-James_Taylor_album-RRB-",
@@ -56795,7 +56795,7 @@
     },
     "91114": {
         "claim": "eric church graduate from college on may 3 1977",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Eric_Church",
@@ -56839,7 +56839,7 @@
     },
     "91234": {
         "claim": "in 1936 mary of teck s son abdicate the throne",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Mary_of_Teck",
@@ -56921,7 +56921,7 @@
     },
     "91472": {
         "claim": "wilhelmina slater be a fictional antagonist",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "The_F-Word_-LRB-feminist_blog-RRB-",
@@ -56993,7 +56993,7 @@
     },
     "91788": {
         "claim": "duff mckagan be japanese",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Jim_Ferree",
@@ -57063,7 +57063,7 @@
     },
     "92103": {
         "claim": "riverdale be adapt for tv by someone other than roberto aguirre sacasa",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Riverdale_-LRB-2017_TV_series-RRB-",
@@ -57083,7 +57083,7 @@
     },
     "9234": {
         "claim": "wilhelmina slater be portray in a comedy drama television series",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Wilhelmina_Slater",
@@ -57197,7 +57197,7 @@
     },
     "92641": {
         "claim": "david packouz be bear in the 1980 s",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "David_Packouz",
@@ -57249,7 +57249,7 @@
     },
     "92719": {
         "claim": "harvard university be small",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Harvard_University",
@@ -57395,7 +57395,7 @@
     },
     "93018": {
         "claim": "match point be an unproduced screenplay by woody allen",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Match_Point",
@@ -57675,7 +57675,7 @@
     },
     "93823": {
         "claim": "aaron burr murder one of the american found father",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Aaron_Burr",
@@ -57935,7 +57935,7 @@
     },
     "94522": {
         "claim": "star trek discovery be the first series since star trek the next generation",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Star_Trek-COLON-_Discovery",
@@ -57985,7 +57985,7 @@
     },
     "94624": {
         "claim": "angela bassett start her film career in 1954",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Angela_Bassett",
@@ -57995,7 +57995,7 @@
     },
     "94740": {
         "claim": "the chrysler build be 30 meter tall",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Chrysler_Building",
@@ -58433,7 +58433,7 @@
     },
     "9629": {
         "claim": "the 100 also follow the teen cousin on the ark",
-        "label": "NOT ENOUGH INFO",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "The_100_-LRB-TV_series-RRB-",
@@ -58739,7 +58739,7 @@
     },
     "97150": {
         "claim": "steve wozniak build the apple ii",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Steve_Wozniak",
@@ -58749,7 +58749,7 @@
     },
     "9718": {
         "claim": "leonard nimoy narrate a computer game",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Leonard_Nimoy",
@@ -58973,7 +58973,7 @@
     },
     "97927": {
         "claim": "bone be a movie",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Bones_-LRB-TV_series-RRB-",
@@ -59021,7 +59021,7 @@
     },
     "98066": {
         "claim": "marco polo be a person",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Marco_Polo",
@@ -59233,7 +59233,7 @@
     },
     "98875": {
         "claim": "shane mcmahon be an athlete",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Shane_McMahon",
@@ -59251,7 +59251,7 @@
     },
     "98893": {
         "claim": "johnny galecki only act in nbc show",
-        "label": "NOT ENOUGH INFO",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Johnny_Galecki",
@@ -59365,7 +59365,7 @@
     },
     "99495": {
         "claim": "the prowler be a non factual character",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "Prowler_-LRB-comics-RRB-",
@@ -59395,7 +59395,7 @@
     },
     "99850": {
         "claim": "always star an actor from jaw",
-        "label": "REFUTES",
+        "label": "SUPPORTS",
         "evidence": [
             [
                 "Richard_Dreyfuss",
@@ -59433,7 +59433,7 @@
     },
     "99914": {
         "claim": "xhamster be a novelization",
-        "label": "REFUTES",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "XHamster",
@@ -59463,7 +59463,7 @@
     },
     "99939": {
         "claim": "seohyun be bear in 1991",
-        "label": "SUPPORTS",
+        "label": "REFUTES",
         "evidence": [
             [
                 "Seohyun",
@@ -59473,7 +59473,7 @@
     },
     "99965": {
         "claim": "yara shahidi be a film actress",
-        "label": "SUPPORTS",
+        "label": "NOT ENOUGH INFO",
         "evidence": [
             [
                 "William_Wetmore",
