@@ -389,3 +389,32 @@ WARNING:root:kernel a7519504-8182-41f1-82bd-be31c3cc70e4 restarted
 [I 17:51:06.954 NotebookApp] Adapting to protocol v5.1 for kernel a7519504-8182-41f1-82bd-be31c3cc70e4
 [I 17:51:06.959 NotebookApp] Restoring connection for a7519504-8182-41f1-82bd-be31c3cc70e4:fc197e8b86404a1d8d9572ea9cda6f1e
 [I 17:51:06.959 NotebookApp] Replaying 6 buffered messages
+[I 17:51:20.202 NotebookApp] Saving file at /PredictLabel.ipynb
+[I 18:09:21.298 NotebookApp] Saving file at /PredictLabel.ipynb
+[I 18:11:20.833 NotebookApp] Saving file at /PredictLabel.ipynb
+[I 19:33:29.856 NotebookApp] Starting buffering for a7519504-8182-41f1-82bd-be31c3cc70e4:fc197e8b86404a1d8d9572ea9cda6f1e
+[C 12:21:50.338 NotebookApp] received signal 15, stopping
+[I 12:21:50.339 NotebookApp] Shutting down 1 kernel
+[I 12:21:51.058 NotebookApp] Kernel shutdown: a7519504-8182-41f1-82bd-be31c3cc70e4
+[I 15:26:52.075 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 15:26:52.076 NotebookApp] Serving notebooks from local directory: /Users/wenbin/Desktop/Unimelb courses/COMP90042 Web Search/Project/AutomaticFactVerification
+[I 15:26:52.076 NotebookApp] The Jupyter Notebook is running at:
+[I 15:26:52.076 NotebookApp] http://localhost:8888/?token=663c0553f3d7877d7bf7a11e7814143dac3b18c552607357
+[I 15:26:52.076 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:26:52.086 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wenbin/Library/Jupyter/runtime/nbserver-7265-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=663c0553f3d7877d7bf7a11e7814143dac3b18c552607357
+[I 15:27:25.662 NotebookApp] Creating new notebook in 
+[I 15:27:26.853 NotebookApp] Kernel started: 0d9b7f36-c0bb-4d6a-a123-eb63c15e0ad3
+[W 15:27:26.993 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190517152651 (::1) 11.20ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:27:27.535 NotebookApp] Adapting to protocol v5.1 for kernel 0d9b7f36-c0bb-4d6a-a123-eb63c15e0ad3
+[I 15:29:26.791 NotebookApp] Saving file at /BERT_MLP.ipynb
+[I 15:31:27.639 NotebookApp] Saving file at /BERT_MLP.ipynb
+[W 15:32:00.957 NotebookApp] 404 GET /static/components/codemirror/mode/bas/bas.js?v=20190517152651 (::1) 7.74ms referer=http://localhost:8888/notebooks/BERT_MLP.ipynb
+[I 15:33:26.798 NotebookApp] Saving file at /BERT_MLP.ipynb
+[I 15:34:59.518 NotebookApp] Saving file at /BERT_MLP.ipynb
+[I 15:35:00.873 NotebookApp] Saving file at /BERT_MLP.ipynb
+[I 15:35:16.770 NotebookApp] Saving file at /BERT_MLP.ipynb

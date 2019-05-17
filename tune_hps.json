@@ -1,0 +1,16 @@
+[
+    {
+        "combination": {
+            "units": 25,
+            "dropout": 0.4
+        },
+        "max_val_acc": 0.8387074596163087
+    },
+    {
+        "combination": {
+            "units": 25,
+            "dropout": 0.3
+        },
+        "max_val_acc": 0.8378136816816504
+    }
+]
