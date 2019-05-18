@@ -1,1 +1,14 @@
 .npy filter=lfs diff=lfs merge=lfs -text
+best_weights.hdf5 filter=lfs diff=lfs merge=lfs -text
+result_on_dev.json filter=lfs diff=lfs merge=lfs -text
+test.npy filter=lfs diff=lfs merge=lfs -text
+BERT_MLP_encodings filter=lfs diff=lfs merge=lfs -text
+BERT_MLP.ipynb filter=lfs diff=lfs merge=lfs -text
+GetEvidence.ipynb filter=lfs diff=lfs merge=lfs -text
+JSONFiles filter=lfs diff=lfs merge=lfs -text
+nohup.out filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+score.py filter=lfs diff=lfs merge=lfs -text
+Tfidf_MLP.ipynb filter=lfs diff=lfs merge=lfs -text
+Untitled.ipynb filter=lfs diff=lfs merge=lfs -text
+wiki-pages-text filter=lfs diff=lfs merge=lfs -text
