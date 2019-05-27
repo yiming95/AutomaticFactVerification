@@ -11,7 +11,8 @@ Used rule-based information extraction
 ### Sentence Retrieval
 
 Basic method: Used TF-IDF, BOW, TF-IDF with threshold, TF-IDF with SVD to compute cosine
-Advance method: Used TF-IDF to genreate training data for BERT, then use BERT fine tune to retrievel sentence
+
+Advanced method: Used TF-IDF to genreate training data for BERT, then use BERT fine tune to retrievel sentence
 
 
 ## Code and files:
